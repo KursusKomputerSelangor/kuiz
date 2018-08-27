@@ -9,7 +9,9 @@ Soalan:
 5. Teka kata laluan dalam file "cabaran1"
 
 md5sum: 0dbafb741377722c82c2061b2593d30f
+
 sha1sum: 30ecef7ae23093ae40fdda64a3a7f1fbec56528d
+
 sha256sum: 02d30f175c9ffaf5d971e628abe0d8a0d6c5f5d5e8b3db9ff72bf4e8e7fa992a
 
 https://www.facebook.com/kursuskomputerselangor/photos/a.670480419993183/670480473326511/
