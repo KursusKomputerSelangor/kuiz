@@ -2,11 +2,13 @@
 
 Soalan:
 
-1. Apakah jenis fail ini?
-2. File ini ditulis dalam bahasa apa?
+1. Apa jenis fail ini?
+2. Fail ini ditulis dalam bahasa apa?
 3. Jenis compiler yang digunakan?
 4. Jenis OS yang digunakan?
-5. Teka kata laluan dalam file "cabaran1"
+5. Teka kata laluan dalam fail "cabaran1"
+
+😁 Sertakan jawapan beserta screenshot ya.
 
 md5sum: 0dbafb741377722c82c2061b2593d30f
 
